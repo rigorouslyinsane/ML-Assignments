@@ -1,4 +1,4 @@
 # ML-Assignments
-Sudeshna Saha<br>
+<b>Sudeshna Saha<br>
 001811001094<br>
-Lab Assignment
+ML Assignments<br></b>
